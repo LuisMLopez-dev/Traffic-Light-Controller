@@ -1,2 +1,2 @@
 # Traffic-Light-Controller
-This is a VHDL project where I created a dedicated microprocessor in Xilinx Vivado for a traffic light controller.
+Designed and implemented a microprocessor-based traffic light controller in VHDL, simulated in Xilinx Vivado, and deployed on Nexys4 DDR FPGA board with verified timing and state transitions.
